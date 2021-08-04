@@ -1,13 +1,1 @@
- Volume in drive D is Data
- Volume Serial Number is A2D1-9A98
-
- Directory of D:\MAP
-
-04-08-2021  10:20    <DIR>          .
-04-08-2021  10:20    <DIR>          ..
-28-07-2021  15:07           312,188 BTech Minor Project Titles_Student_copy.pdf
-28-07-2021  15:03            86,209 git-cheat-sheet(1).pdf
-04-08-2021  10:20                 0 hello.txt
-28-07-2021  14:16            14,238 List of Practicals.docx
-               4 File(s)        412,635 bytes
-               2 Dir(s)  663,522,856,960 bytes free
+hello
